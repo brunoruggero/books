@@ -1,6 +1,6 @@
 ## 📋 Projeto Books
 
-Aplicação Web desenvolvida em Laravel, com acesso restrito, listagem de livros com as opções de visualizar detalhes do livro, editar, deletar e criar um livro e também mostramos o clima atual da região onde a aplicação foi desenvolvida, consumindo a API da OpenWaether, tada aplicação pode ser rodada com Docker.
+Aplicação Web desenvolvida em Laravel, com acesso restrito, listagem de livros com as opções de visualizar detalhes do livro, editar, deletar e criar um livro e também mostramos o clima atual da região onde a aplicação foi desenvolvida, consumindo a API da OpenWaether, toda aplicação pode ser rodada com Docker.
 
 * [Laravel 8](https://laravel.com/docs)
 * [API OpenWaether](https://openweathermap.org/)
@@ -83,7 +83,7 @@ Passo 11: Após executar o script de atualização do banco, acesse o sistema.
 
 Passo 1: Clonar o repositório
 ```
-git clone LINK_DO_REPOSITÓRIO
+git clone https://github.com/brunoruggero/books.git
 ```
 
 Passo 2: Crie o arquivo .env a partir do arquivo .env-copy
