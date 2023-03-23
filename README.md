@@ -26,9 +26,9 @@ Passo 1: Clonar o repositório
 git clone https://github.com/brunoruggero/books.git
 ```
 
-Passo 2: Crie o arquivo .env a partir do arquivo .env-copy
+Passo 2: Crie o arquivo **.env** a partir do arquivo **.env-copy**
 
-Passo 3: Caso queira atualize as variáveis de ambiente do arquivo .env, mas se preferir deixe o arquivo nas configurações padrões.
+Passo 3: Atualize as variáveis de ambiente do banco de dados do arquivo **.env**, mas se preferir deixe o arquivo nas configurações padrões.
 
 Passo 4: Suba os containers do projeto
 
@@ -88,7 +88,7 @@ git clone LINK_DO_REPOSITÓRIO
 
 Passo 2: Crie o arquivo .env a partir do arquivo .env-copy
 
-Passo 3: Caso queira atualize as variáveis de ambiente do arquivo .env, mas se preferir deixe o arquivo nas configurações padrões.
+Passo 3: Atualize as variáveis de ambiente do banco de dados do arquivo **.env**, mas se preferir deixe o arquivo nas configurações padrões.
 
 Passo 4: Suba os containers do projeto
 
